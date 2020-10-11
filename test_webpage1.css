@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  font-family: "Hiragino Kaku Gothic ProN";
+}
+
+a {
+  text-decoration: none;
+}
+
+/* containerクラスのCSSを指定してください */
+.container{
+  width:1170px;
+  padding-right:15px;
+  padding-left:15px;
+}
+.top-wrapper{
+  color:white;
+  background-image:url(https://i.pinimg.com/originals/d2/a1/36/d2a136eb1769536a8ac79d836f24c604.png);
+  background-size:white;
+}
+.top-wapper h1{
+  opacity:0.7;
+  font-size:45px;
+  letter-spacing:5px;
+}
+
+
+/* top-wrapperの中の<p>のCSSを指定してください */
+.top-wrapper p{
+  opacity:0.7;
+}
